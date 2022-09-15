@@ -4,11 +4,14 @@
 }
 
 #gallery {
-  background-image: url(img/megamendung-batik-gold-sketch-pattern.webp);
+  background-color: #2f3652;
   background-size: cover;
-  background-repeat: repeat;
-  background-clip: border-box;
   padding: 7rem 0rem;
+}
+
+#gallery img {
+  max-width: 100%;
+  padding: 80px 0;
 }
 
 #text-gallery {
