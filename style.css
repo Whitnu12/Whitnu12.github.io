@@ -6,7 +6,7 @@
 #gallery {
   background-color: #2f3652;
   background-size: cover;
-  padding: 7rem 0rem;
+  padding: 2rem 0rem;
 }
 
 #gallery img {
@@ -61,4 +61,8 @@ section {
 
 body {
   scroll-behavior: smooth;
+}
+
+#gallery-modal .modal-img {
+  width: 100%;
 }
